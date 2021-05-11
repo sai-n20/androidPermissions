@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project3App3</string>
+    <string name="kaboom_desc">Do kaboom and be dangerous</string>
+    <string-array name="Shows">
+        <item>Formula 1: Drive to Survive</item>
+        <item>FRIENDS</item>
+        <item>How I Met Your Mother</item>
+        <item>Seinfeld</item>
+        <item>Stranger Things</item>
+    </string-array>
+    <string-array name="Images">
+        <item>dts</item>
+        <item>friends</item>
+        <item>himym</item>
+        <item>seinfeld</item>
+        <item>stranger</item>
+    </string-array>
+    <string-array name="URL">
+        <item>https://en.wikipedia.org/wiki/Formula_1:_Drive_to_Survive</item>
+        <item>https://en.wikipedia.org/wiki/Friends</item>
+        <item>https://en.wikipedia.org/wiki/How_I_Met_Your_Mother</item>
+        <item>https://en.wikipedia.org/wiki/Seinfeld</item>
+        <item>https://en.wikipedia.org/wiki/Stranger_Things</item>
+    </string-array>
+</resources>
